@@ -1,0 +1,20 @@
+[
+  {
+    "name": "freeCodeCamp",
+    "description": "Learn to code for free.",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "starred_at": "2025-02-14"
+  },
+  {
+    "name": "The Algorithms",
+    "description": "Open source resource for learning data structures and algorithms.",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "starred_at": "2025-01-28"
+  },
+  {
+    "name": "D3",
+    "description": "Bring data to life with SVG, Canvas and HTML.",
+    "url": "https://github.com/d3/d3",
+    "starred_at": "2024-12-09"
+  }
+]
